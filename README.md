@@ -14,7 +14,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/xen0-1/Elastic-Stack-Based-SIEM-for-Log-Analysis-and-Threat-Detection.git">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="[https://google.com](https://github.com/xen0-1/Security-Monitoring-with-Splunk-and-Snort.git)">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com](https://github.com/xen0-1/Security-Monitoring-with-Splunk-and-Snort.git">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | <a href="https://google.com">SOC Automation Lab</a>|
 | Incident Response Planning and Execution      | <a href="https://google.com">SOC Automation Lab</a>|
 
