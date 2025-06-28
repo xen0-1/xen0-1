@@ -15,8 +15,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/xen0-1/Elastic-Stack-Based-SIEM-for-Log-Analysis-and-Threat-Detection.git">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/xen0-1/Security-Monitoring-with-Splunk-and-Snort.git">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | <a href="https://google.com">SOC Automation Lab</a>|
-| Incident Response Planning and Execution      | <a href="https://google.com">SOC Automation Lab</a>|
+| Security Automation with Shuffle SOAR         | <a href="https://github.com/xen0-1/ActiveDirectory-Automation.git">SOC Automation Lab</a>|
+| Incident Response Planning and Execution      | <a href="https://github.com/xen0-1/Azure-Honeynet-with-Live-Traffic.git">SOC Automation Lab</a>|
 
 ## Tools
 
@@ -43,7 +43,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Geolocation-Based Threat Detection and Visualization in Azure Sentinel
-- Security Orchestration with Active Directory
+-  ActiveDirectory-Automation
+-  Azure-Honeynet-with-Live-Traffic
 - Security Monitoring with Splunk & Snort
 - Elastic Stack-Based SIEM for Log Analysis and Threat Detection 
